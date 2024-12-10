@@ -9,4 +9,10 @@
   - Click on login.cy.js <br>
 
  
-### Note: You can also view the video file of the Login Functionality test in "cypress/videos/login.cy.js.mp4" 
+## Note: You can also view the video file of the Login Functionality test in "cypress/videos/login.cy.js.mp4" 
+
+<br>
+
+
+### - Sample on How to prepare TEST PLAN, BUG REPORT, QA SUMMARY REPORT ###
+  - [Sample of Test Plan, Bug Report, QA Summary Report.pdf](https://github.com/user-attachments/files/18079659/Sample.of.Test.Plan.Bug.Report.QA.Summary.Report.pdf)
